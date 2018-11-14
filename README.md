@@ -1,4 +1,4 @@
 # gittest
 allo2
-allo3
-allo4
+alo3
+alo4
